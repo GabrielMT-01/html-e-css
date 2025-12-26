@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    background:linear-gradient(to right, #E1E590, #667999);
+    
+}
+.topopagina, h1{
+    background-color: #FFD7D7;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+
+}
+h1, h2, p{
+   color: #4B6289;
+   text-align: center;
+}
+p{
+    font-size: 1.2em;
+}
+h2{
+    font-size: 2em;
+}
